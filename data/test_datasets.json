@@ -1,0 +1,6 @@
+{
+    "coverage": "/home/yaoyong/ln_projects/ln_dataset/json_files/coverage_annotations_only_fake.json",
+    "casia_v1": "/home/yaoyong/ln_projects/ln_dataset/json_files/CASIA1_annotations_only_fake.json",
+    "columbia": "/home/yaoyong/ln_projects/ln_dataset/json_files/columbia_annotations_only_fake.json",
+    "nist2016": "/home/yaoyong/ln_projects/ln_dataset/json_files/NIST16_test.json"
+}

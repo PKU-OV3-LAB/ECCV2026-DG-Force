@@ -1,0 +1,10 @@
+[
+    ["JsonDataset", "/home/yaoyong/ln_projects/ln_dataset/json_files/CASIA2_annotations.json"],
+    ["JsonDataset", "/home/yaoyong/ln_projects/ln_dataset/json_files/FantasticReality_annotations.json"],
+    ["JsonDataset", "/home/yaoyong/ln_projects/ln_dataset/json_files/IMD2020_annotations.json"],
+    ["JsonDataset", "/home/yaoyong/ln_projects/ln_dataset/json_files/compRAISE1024_annotations.json"],
+    ["JsonDataset", "/home/yaoyong/ln_projects/ln_dataset/json_files/bcm_annotations.json"],
+    ["JsonDataset", "/home/yaoyong/ln_projects/ln_dataset/json_files/bcmc_annotations.json"],
+    ["JsonDataset", "/home/yaoyong/ln_projects/ln_dataset/json_files/cm_annotations.json"],
+    ["JsonDataset", "/home/yaoyong/ln_projects/ln_dataset/json_files/sp_annotations.json"]
+]

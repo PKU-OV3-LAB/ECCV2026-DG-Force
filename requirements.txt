@@ -1,0 +1,17 @@
+timm
+albumentations==1.3.0
+opencv-python-headless
+numpy<2
+matplotlib
+scikit-learn
+tensorboard
+fvcore
+ttach
+appdirs
+colorama
+requests
+rich
+Pillow
+pyyaml
+tqdm
+packaging

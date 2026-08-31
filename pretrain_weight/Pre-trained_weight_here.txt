@@ -1,0 +1,1 @@
+Place mit_b3.pth here: ./pretrain_weight/mit_b3.pth
